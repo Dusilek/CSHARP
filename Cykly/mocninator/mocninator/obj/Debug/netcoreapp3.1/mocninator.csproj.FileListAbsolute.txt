@@ -1,0 +1,13 @@
+C:\Users\micha\source\repos\mocninator\mocninator\bin\Debug\netcoreapp3.1\mocninator.exe
+C:\Users\micha\source\repos\mocninator\mocninator\bin\Debug\netcoreapp3.1\mocninator.deps.json
+C:\Users\micha\source\repos\mocninator\mocninator\bin\Debug\netcoreapp3.1\mocninator.runtimeconfig.json
+C:\Users\micha\source\repos\mocninator\mocninator\bin\Debug\netcoreapp3.1\mocninator.runtimeconfig.dev.json
+C:\Users\micha\source\repos\mocninator\mocninator\bin\Debug\netcoreapp3.1\mocninator.dll
+C:\Users\micha\source\repos\mocninator\mocninator\bin\Debug\netcoreapp3.1\mocninator.pdb
+C:\Users\micha\source\repos\mocninator\mocninator\obj\Debug\netcoreapp3.1\mocninator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\mocninator\mocninator\obj\Debug\netcoreapp3.1\mocninator.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\mocninator\mocninator\obj\Debug\netcoreapp3.1\mocninator.AssemblyInfo.cs
+C:\Users\micha\source\repos\mocninator\mocninator\obj\Debug\netcoreapp3.1\mocninator.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\mocninator\mocninator\obj\Debug\netcoreapp3.1\mocninator.dll
+C:\Users\micha\source\repos\mocninator\mocninator\obj\Debug\netcoreapp3.1\mocninator.pdb
+C:\Users\micha\source\repos\mocninator\mocninator\obj\Debug\netcoreapp3.1\mocninator.genruntimeconfig.cache
