@@ -1,0 +1,13 @@
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\bin\Debug\netcoreapp3.1\cisladodeseti.exe
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\bin\Debug\netcoreapp3.1\cisladodeseti.deps.json
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\bin\Debug\netcoreapp3.1\cisladodeseti.runtimeconfig.json
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\bin\Debug\netcoreapp3.1\cisladodeseti.runtimeconfig.dev.json
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\bin\Debug\netcoreapp3.1\cisladodeseti.dll
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\bin\Debug\netcoreapp3.1\cisladodeseti.pdb
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\obj\Debug\netcoreapp3.1\cisladodeseti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\obj\Debug\netcoreapp3.1\cisladodeseti.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\obj\Debug\netcoreapp3.1\cisladodeseti.AssemblyInfo.cs
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\obj\Debug\netcoreapp3.1\cisladodeseti.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\obj\Debug\netcoreapp3.1\cisladodeseti.dll
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\obj\Debug\netcoreapp3.1\cisladodeseti.pdb
+C:\Users\micha\source\repos\cisladodeseti\cisladodeseti\obj\Debug\netcoreapp3.1\cisladodeseti.genruntimeconfig.cache

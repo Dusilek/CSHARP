@@ -1,0 +1,13 @@
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\bin\Debug\netcoreapp3.1\kalkulatorsvolbou.exe
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\bin\Debug\netcoreapp3.1\kalkulatorsvolbou.deps.json
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\bin\Debug\netcoreapp3.1\kalkulatorsvolbou.runtimeconfig.json
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\bin\Debug\netcoreapp3.1\kalkulatorsvolbou.runtimeconfig.dev.json
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\bin\Debug\netcoreapp3.1\kalkulatorsvolbou.dll
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\bin\Debug\netcoreapp3.1\kalkulatorsvolbou.pdb
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\obj\Debug\netcoreapp3.1\kalkulatorsvolbou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\obj\Debug\netcoreapp3.1\kalkulatorsvolbou.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\obj\Debug\netcoreapp3.1\kalkulatorsvolbou.AssemblyInfo.cs
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\obj\Debug\netcoreapp3.1\kalkulatorsvolbou.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\obj\Debug\netcoreapp3.1\kalkulatorsvolbou.dll
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\obj\Debug\netcoreapp3.1\kalkulatorsvolbou.pdb
+C:\Users\micha\source\repos\kalkulatorsvolbou\kalkulatorsvolbou\obj\Debug\netcoreapp3.1\kalkulatorsvolbou.genruntimeconfig.cache
