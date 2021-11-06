@@ -1,0 +1,13 @@
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\bin\Debug\netcoreapp3.1\vnorenecykly.exe
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\bin\Debug\netcoreapp3.1\vnorenecykly.deps.json
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\bin\Debug\netcoreapp3.1\vnorenecykly.runtimeconfig.json
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\bin\Debug\netcoreapp3.1\vnorenecykly.runtimeconfig.dev.json
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\bin\Debug\netcoreapp3.1\vnorenecykly.dll
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\bin\Debug\netcoreapp3.1\vnorenecykly.pdb
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\obj\Debug\netcoreapp3.1\vnorenecykly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\obj\Debug\netcoreapp3.1\vnorenecykly.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\obj\Debug\netcoreapp3.1\vnorenecykly.AssemblyInfo.cs
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\obj\Debug\netcoreapp3.1\vnorenecykly.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\obj\Debug\netcoreapp3.1\vnorenecykly.dll
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\obj\Debug\netcoreapp3.1\vnorenecykly.pdb
+C:\Users\micha\source\repos\vnorenecykly\vnorenecykly\obj\Debug\netcoreapp3.1\vnorenecykly.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\sheldon\sheldon\bin\Debug\netcoreapp3.1\sheldon.exe
+C:\Users\micha\source\repos\sheldon\sheldon\bin\Debug\netcoreapp3.1\sheldon.deps.json
+C:\Users\micha\source\repos\sheldon\sheldon\bin\Debug\netcoreapp3.1\sheldon.runtimeconfig.json
+C:\Users\micha\source\repos\sheldon\sheldon\bin\Debug\netcoreapp3.1\sheldon.runtimeconfig.dev.json
+C:\Users\micha\source\repos\sheldon\sheldon\bin\Debug\netcoreapp3.1\sheldon.dll
+C:\Users\micha\source\repos\sheldon\sheldon\bin\Debug\netcoreapp3.1\sheldon.pdb
+C:\Users\micha\source\repos\sheldon\sheldon\obj\Debug\netcoreapp3.1\sheldon.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\sheldon\sheldon\obj\Debug\netcoreapp3.1\sheldon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\sheldon\sheldon\obj\Debug\netcoreapp3.1\sheldon.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\sheldon\sheldon\obj\Debug\netcoreapp3.1\sheldon.AssemblyInfo.cs
+C:\Users\micha\source\repos\sheldon\sheldon\obj\Debug\netcoreapp3.1\sheldon.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\sheldon\sheldon\obj\Debug\netcoreapp3.1\sheldon.dll
+C:\Users\micha\source\repos\sheldon\sheldon\obj\Debug\netcoreapp3.1\sheldon.pdb
+C:\Users\micha\source\repos\sheldon\sheldon\obj\Debug\netcoreapp3.1\sheldon.genruntimeconfig.cache

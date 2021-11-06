@@ -1,0 +1,13 @@
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\bin\Debug\netcoreapp3.1\zjednodusenísoperatory_2.exe
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\bin\Debug\netcoreapp3.1\zjednodusenísoperatory_2.deps.json
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\bin\Debug\netcoreapp3.1\zjednodusenísoperatory_2.runtimeconfig.json
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\bin\Debug\netcoreapp3.1\zjednodusenísoperatory_2.runtimeconfig.dev.json
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\bin\Debug\netcoreapp3.1\zjednodusenísoperatory_2.dll
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\bin\Debug\netcoreapp3.1\zjednodusenísoperatory_2.pdb
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\obj\Debug\netcoreapp3.1\zjednodusenísoperatory_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\obj\Debug\netcoreapp3.1\zjednodusenísoperatory_2.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\obj\Debug\netcoreapp3.1\zjednodusenísoperatory_2.AssemblyInfo.cs
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\obj\Debug\netcoreapp3.1\zjednodusenísoperatory_2.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\obj\Debug\netcoreapp3.1\zjednodusenísoperatory_2.dll
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\obj\Debug\netcoreapp3.1\zjednodusenísoperatory_2.pdb
+C:\Users\micha\source\repos\zjednodusenísoperatory_2\zjednodusenísoperatory_2\obj\Debug\netcoreapp3.1\zjednodusenísoperatory_2.genruntimeconfig.cache
